@@ -132,10 +132,8 @@ All contributors must follow our [Code of Conduct](./community/CODE_OF_CONDUCT.m
 ```
 NARRATIVES  •  TECHNOLOGY  •  COMMUNITY  •  GROWTH
 ```
-
-```
-[| 🚨 Disclaimer | ](https://github.com/pumpneticprojects-collab/pumpnetic-public/blob/main/docs/legal/disclaimer.md)
-```
+<div align="center">
+[🚨Disclaimer](https://github.com/pumpneticprojects-collab/pumpnetic-public/blob/main/docs/legal/disclaimer.md)
 
 *© Pumpnetic. Built on the Internet.*
 
