@@ -54,8 +54,6 @@ pumpnetic-public/
 └── README.md             # You are here
 ```
 
-> Private infrastructure, internal tooling, and unreleased project code lives in `pumpnetic-private`.
-
 ---
 
 ## 🚀 Projects & Releases
