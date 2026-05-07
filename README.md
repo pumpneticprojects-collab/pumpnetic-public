@@ -56,6 +56,47 @@ pumpnetic-public/
 
 ---
 
+## 🌐 Ecosystem Projects
+
+| Project | Token | Status | Description | Link |
+|---|---|---|---|---|
+| I Know What You Did | `$IKWYD` | 🟢 Live | The meme token that knows your on-chain history. Confessions, liquidations, and degenerate plays — preserved on the blockchain for eternity. | [ikwyd.pumpnetic.com](https://ikwyd.pumpnetic.com) |
+| No Sugar Coin | `$NSGC` | 🟢 Live | The cleanest token on chain. No fillers, no artificial pumps, no empty calories. Pure, unrefined community-driven tokenomics. | [nsgc.pumpnetic.com](https://nsgc.pumpnetic.com) |
+| Project 3 | TBA | 🔜 Planned | Third ecosystem project. Community-incubated. | — |
+| Project 4 | TBA | 🔜 Planned | Fourth ecosystem project. Narrative TBD. | — |
+
+---
+
+## 🗺 Roadmap
+
+```
+Phase 01 — FOUNDATION          [✅ Complete]
+  Pumpnetic brand created. Domain registered.
+  Subdomain architecture designed.
+  First two projects conceived and scoped.
+
+Phase 02 — FIRST LAUNCHES      [🟡 Active]
+  $IKWYD + $NSGC landing pages live on subdomains.
+  Community channels launched.
+  Social presence established on X.
+
+Phase 03 — PORTAL + DOCS       [🔄 In Progress]
+  pumpnetic.com ecosystem portal.
+  docs.pumpnetic.com — whitepapers + technical docs.
+
+Phase 04 — COMMUNITY + STAKING [⏳ Soon]
+  Governance voting.
+  Staking portal.
+  NFT drops for holders.
+  Community analytics dashboard.
+
+Phase 05 — EXPANSION           [📋 Planned]
+  Third + fourth project launches.
+  Token incubator opens to community concepts.
+```
+
+---
+
 ## 🚀 Projects & Releases
 
 Public project announcements, contract deployments, and release notes will be published here as they go live.
