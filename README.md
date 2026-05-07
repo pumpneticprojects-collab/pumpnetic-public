@@ -125,14 +125,16 @@ All contributors must follow our [Code of Conduct](./community/CODE_OF_CONDUCT.m
 | 𝕏 Twitter / X | [@pumpnetic](https://x.com/pumpnetic) |
 | 🐙 GitHub Org | [pumpneticprojects-collab](https://github.com/pumpneticprojects-collab) |
 
-| 🚨 Disclaimer | [Link](https://github.com/pumpneticprojects-collab/pumpnetic-public/blob/main/docs/legal/disclaimer.md)
-
 ---
 
 <div align="center">
 
 ```
 NARRATIVES  •  TECHNOLOGY  •  COMMUNITY  •  GROWTH
+```
+
+```
+[| 🚨 Disclaimer | ](https://github.com/pumpneticprojects-collab/pumpnetic-public/blob/main/docs/legal/disclaimer.md)
 ```
 
 *© Pumpnetic. Built on the Internet.*
