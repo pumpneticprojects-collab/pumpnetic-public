@@ -67,7 +67,7 @@ This documentation may contain forward-looking statements regarding planned feat
 
 For legal enquiries, please contact:
 
-📧 **legal@pumpnetic.com**
+📧 **pumpneticprojects@gmail.com**
 
 ---
 
