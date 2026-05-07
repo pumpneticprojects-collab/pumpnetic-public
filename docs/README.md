@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Pumpnetic Banner](https://raw.githubusercontent.com/pumpneticprojects-collab/pumpnetic-public/main/assets/pumpbanner.png)
-
 <br/>
 
 # PUMPNETIC
