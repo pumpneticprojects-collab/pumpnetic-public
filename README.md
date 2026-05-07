@@ -105,18 +105,6 @@ Watch this repo 👁 to stay notified.
 
 ---
 
-## 🤝 Contributing & Collaboration
-
-Pumpnetic is a collaborative ecosystem. If you're a developer, researcher, or community builder who wants to contribute:
-
-1. Fork this repository
-2. Open an issue describing your proposal
-3. Submit a pull request referencing the issue
-
-All contributors must follow our [Code of Conduct](./community/CODE_OF_CONDUCT.md).
-
----
-
 ## 🔗 Links
 
 | | |
@@ -138,3 +126,9 @@ NARRATIVES  •  TECHNOLOGY  •  COMMUNITY  •  GROWTH
 *© Pumpnetic. Built on the Internet.*
 
 </div>
+
+---
+
+All contributors must follow our [Code of Conduct](./community/CODE_OF_CONDUCT.md).
+
+---
