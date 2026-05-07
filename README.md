@@ -125,6 +125,8 @@ All contributors must follow our [Code of Conduct](./community/CODE_OF_CONDUCT.m
 | 𝕏 Twitter / X | [@pumpnetic](https://x.com/pumpnetic) |
 | 🐙 GitHub Org | [pumpneticprojects-collab](https://github.com/pumpneticprojects-collab) |
 
+| 🚨 Disclaimer | [https://github.com/pumpneticprojects-collab/pumpnetic-public/blob/main/docs/legal/disclaimer.md]
+
 ---
 
 <div align="center">
