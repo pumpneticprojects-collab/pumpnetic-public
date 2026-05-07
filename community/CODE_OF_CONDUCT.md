@@ -15,7 +15,7 @@ Pumpnetic is built on the internet, and the internet works best when people enga
 This Code of Conduct applies across all Pumpnetic spaces, including:
 
 - This GitHub organization and all its repositories
-- Official community channels (Discord, Telegram, etc.)
+- Official community channels (X, Telegram, etc.)
 - Social media interactions under the Pumpnetic brand
 - Any public or private communication conducted on behalf of Pumpnetic
 
