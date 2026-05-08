@@ -1,100 +1,107 @@
-# $IKWYD — I Know What You Did On Your Last Trade
+# 🔴 IKWYD Coin ($IKWYD)
 
 **The blockchain never forgets.**
 
-$IKWYD is a meme and culture token built for the crypto generation that survived panic sells, leverage liquidations, rug pulls, buying tops, selling bottoms, chasing green candles, and pretending they were early.
+IKWYD Coin ($IKWYD) is a meme and culture token built on BNB Smart Chain for the entire crypto generation that survived buying tops, selling bottoms, leverage liquidations, rug pulls, and emotional trading decisions.
 
-Every trade leaves a trace. Every wallet tells a story.  
-We know what you did on your last trade.
+More than a token, IKWYD represents the reality of on-chain culture — where every trade leaves a trace, every wallet tells a story, and nothing truly disappears from the blockchain.
 
-## Official Links
+This repository contains the public website, branding assets, and project files for the official IKWYD ecosystem presence.
 
-- Website: https://ikwyd.pumpnetic.com/
-- Pumpnetic: https://pumpnetic.com/
-- Telegram: https://t.me/IKWYDCoin
-- X / Twitter: https://x.com/IKWYDCoin
-- PancakeSwap: https://pancakeswap.finance/swap?outputCurrency=0xA3ad36133013Db657107266c18cbe1aea0319821
-- BSCScan: https://bscscan.com/token/0xA3ad36133013Db657107266c18cbe1aea0319821
+---
 
-## Token Details
+# 👁 What Is IKWYD?
 
-| Item | Details |
-|---|---|
+$IKWYD stands for:
+
+**I Know What You Did On Your Last Trade**
+
+The project is a culture-first meme token focused on the funny, painful, and very public side of crypto trading:
+
+* Buying the top
+* Selling the bottom
+* Getting liquidated
+* Chasing green candles
+* Panic selling
+* Trusting influencers
+* Missing the 1000x
+* Getting rugged
+* Opening another trade 5 minutes later
+
+IKWYD transforms crypto trauma into meme culture and community engagement.
+
+---
+
+# 🌐 Official Links
+
+* Website: [https://ikwyd.pumpnetic.com](https://ikwyd.pumpnetic.com)
+* Pumpnetic Ecosystem: [https://pumpnetic.com](https://pumpnetic.com)
+* Telegram: [https://t.me/IKWYDCoin](https://t.me/IKWYDCoin)
+* X / Twitter: [https://x.com/IKWYDCoin](https://x.com/IKWYDCoin)
+* BSCScan: [https://bscscan.com/token/0xA3ad36133013Db657107266c18cbe1aea0319821](https://bscscan.com/token/0xA3ad36133013Db657107266c18cbe1aea0319821)
+* PancakeSwap:
+  [https://pancakeswap.finance/swap?outputCurrency=0xA3ad36133013Db657107266c18cbe1aea0319821](https://pancakeswap.finance/swap?outputCurrency=0xA3ad36133013Db657107266c18cbe1aea0319821)
+
+---
+
+# 🪙 Token Information
+
+| Item | Value |
+|------|------|
 | Name | I Know What You Did |
-| Ticker | $IKWYD |
+| Symbol | $IKWYD |
 | Chain | BNB Smart Chain |
-| Contract | 0xA3ad36133013Db657107266c18cbe1aea0319821 |
-| Total Supply | 1,000,000,000 |
+| Supply | 1,000,000,000 |
 | Tax | 0% |
-| Liquidity | 60% — Locked |
-| Community Pool | 20% — Meme Raids & Rewards |
-| Marketing | 10% |
-| Team | 5% |
-| Future Burns | 5% |
+| Liquidity | Locked |
+| Type | Meme / Culture Token |
 
-## Concept
+---
 
-$IKWYD is the meme coin for everyone whose trading history is permanently written on-chain.
+# 📁 Repository Contents
 
-It represents the funny, painful, and very public side of crypto culture:
+This repository includes:
 
-- Bought the top
-- Sold the bottom
-- Got liquidated
-- Trusted the wrong influencer
-- Got rugged
-- Sold too early
-- Opened another trade five minutes later
+* Branding assets
+* Logos and images
+* Landing page files
+* Ecosystem integration files
+* Public project resources
+* Meme campaign assets
+* Community content
 
-This is not just a token.  
-It is a support group for degens.
+---
 
-## Roadmap
+# 🔥 Community Narrative
 
-### Phase 1 — The Confession
+IKWYD is built for everyone who:
 
-- Token deployment on BNB Smart Chain
-- Website live
-- Telegram and X communities launched
-- Liquidity added and locked
-- Pumpnetic ecosystem listing
+* Held too long
+* Sold too early
+* Bought fake breakouts
+* Trusted “alpha”
+* Got destroyed by leverage
+* Said “this is just a dip”
+* Survived another market cycle
 
-### Phase 2 — The Exposure
+This is not just another meme coin.
 
-- Meme campaign: “We Saw Your Wallet”
-- Viral meme drops across X and Telegram
-- Community raids and degen onboarding
-- Micro-influencer and Crypto Twitter push
-- Pumpnetic ecosystem cross-promotion
+It is a public confession wall for degens.
 
-### Phase 3 — The Hall of Shame
+---
 
-- DEX listing confirmed
-- Hall of Shame NFT badges for degens
-- Community voting and meme burns
-- Merch drops
-- Wallet confession tool concept
+# ⚡ Pumpnetic Ecosystem
 
-### Phase 4 — The Reckoning
+IKWYD is part of the broader Pumpnetic ecosystem — a community-focused launch and project network for experimental meme, culture, and crypto-native ideas.
 
-- CMC and CoinGecko listings
-- Larger meme and culture campaigns
-- Partnership announcements
-- Cross-community raids
-- Global meme expansion
+More ecosystem projects, meme campaigns, and integrations are planned.
 
-## Pumpnetic Ecosystem
+---
 
-$IKWYD is an official project within the Pumpnetic ecosystem, a crypto launchpad and culture coin portal built for community-driven projects.
+# ⚠ Disclaimer
 
-Discover more projects at:
+IKWYD Coin ($IKWYD) is a meme and culture token created for entertainment and community purposes.
 
-https://pumpnetic.com/
-
-## Disclaimer
-
-$IKWYD is a meme and culture token. It has no intrinsic value and provides no financial guarantees. Cryptocurrency is highly speculative and volatile. You may lose all funds invested.
-
-This is not financial advice. Do your own research. Never invest more than you can afford to lose.
+This project does not provide financial advice. Cryptocurrency investments are highly speculative and risky. Always do your own research before participating.
 
 The blockchain never forgets.
