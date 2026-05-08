@@ -58,12 +58,27 @@ pumpnetic-public/
 
 ## 🌐 Ecosystem Projects
 
-| Project | Token | Status | Description | Link |
-|---|---|---|---|---|
-| I Know What You Did | `$IKWYD` | 🟢 Live | The meme token that knows your on-chain history. Confessions, liquidations, and degenerate plays — preserved on the blockchain for eternity. | [ikwyd.pumpnetic.com](https://ikwyd.pumpnetic.com) |
-| No Sugar Coin | `$NSGC` | 🟢 Live | The cleanest token on chain. No fillers, no artificial pumps, no empty calories. Pure, unrefined community-driven tokenomics. | [nsgc.pumpnetic.com](https://nsgc.pumpnetic.com) |
-| Project 3 | TBA | 🔜 Planned | Third ecosystem project. Community-incubated. | — |
-| Project 4 | TBA | 🔜 Planned | Fourth ecosystem project. Narrative TBD. | — |
+| Project | Token | Status | Narrative | Website | Documentation |
+|---|---:|:---:|---|---|---|
+| 🕵️‍♂️ **I Know What You Did On Your Last Trade** | `$IKWYD` | 🟢 Live | A meme token built around crypto confessions, revenge trades, liquidations, bad entries, and the permanent memory of the blockchain. | [ikwyd.pumpnetic.com](https://ikwyd.pumpnetic.com) | [View Docs](https://github.com/pumpneticprojects-collab/pumpnetic-public/blob/main/docs/projects/ikwyd.md) |
+| 🍬 **No Sugar Coin** | `$NSGC` | 🟢 Live | A discipline-first culture token focused on delayed gratification, self-control, productivity, fitness, and long-term thinking. | [nsgc.pumpnetic.com](https://nsgc.pumpnetic.com) | [View Docs](https://github.com/pumpneticprojects-collab/pumpnetic-public/blob/main/docs/projects/nsgc.md) |
+| 🧪 **Project 03** | `TBA` | 🔜 Planned | Community-incubated experimental narrative currently under development. | — | — |
+| 🚀 **Project 04** | `TBA` | 🔜 Planned | Future ecosystem expansion project. Narrative and infrastructure to be announced. | — | — |
+
+---
+
+### 📦 Project Philosophy
+
+Each Pumpnetic project is developed as an independent internet-native brand with:
+
+- 🌐 Dedicated subdomain infrastructure
+- 📚 Public documentation & roadmap
+- 🧠 Narrative-focused branding
+- ⚙️ Open ecosystem architecture
+- 👥 Community-first growth strategy
+- 🔓 Transparent public repositories
+
+The ecosystem is designed to scale into multiple autonomous but interconnected crypto-native projects.
 
 ---
 
