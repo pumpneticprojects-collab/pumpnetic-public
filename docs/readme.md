@@ -98,8 +98,6 @@ No fillers, no artificial pumps, no empty calories. $NSGC is built on pure, unre
 | 🌐 Website | [pumpnetic.com](https://pumpnetic.com) |
 | 𝕏 Twitter / X | [@pumpnetic](https://x.com/pumpnetic) |
 | 🐙 GitHub | [pumpneticprojects-collab](https://github.com/pumpneticprojects-collab) |
-| 📄 Docs Index | [docs/README.md](./README.md) |
-
 ---
 
 <div align="center">
