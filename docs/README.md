@@ -1,132 +1,109 @@
-<!-- PUMPNETIC — pumpnetic-public README -->
+# Ecosystem Overview
 
-<div align="center">
-
-<br/>
-
-# PUMPNETIC
-
-### Internet-Native Crypto Ecosystem
-
-[![X (Twitter)](https://img.shields.io/badge/Follow-%40pumpnetic-1DA1F2?style=for-the-badge&logo=x&logoColor=white&color=000000)](https://x.com/pumpnetic)
-[![Website](https://img.shields.io/badge/Website-pumpnetic.com-39FF14?style=for-the-badge&logo=googlechrome&logoColor=black)](https://pumpnetic.com)
-[![GitHub Org](https://img.shields.io/badge/GitHub-pumpneticprojects--collab-181717?style=for-the-badge&logo=github)](https://github.com/pumpneticprojects-collab)
+**Pumpnetic — Internet-Native Crypto Ecosystem**
 
 ---
 
-> **Built on the Internet. Fueled by Narratives. Focused on the Future.**
+## Vision
 
-</div>
+Pumpnetic exists at the intersection of internet culture and decentralised finance. We believe the most successful crypto projects are not built on hype alone — they are built on **narratives that resonate, technology that works, and communities that last**.
 
----
-
-## ⬆ What is Pumpnetic?
-
-**Pumpnetic** is an internet-native crypto ecosystem engineered at the intersection of narratives, technology, community, and growth. We build and support crypto projects that are designed for the way the internet actually works — fast-moving, narrative-driven, community-first.
-
-We don't just launch tokens. We architect ecosystems.
+The internet is the most powerful distribution network ever created. Pumpnetic is designed to operate natively within it — using the speed of online culture, the permanence of blockchain, and the energy of community-driven growth to build an ecosystem that endures beyond any single token or trend.
 
 ---
 
-## 🧭 Core Pillars
+## What We Build
 
-| Pillar | Description |
-|---|---|
-| 📡 **Narratives** | We identify, create, and amplify the stories that move markets and communities |
-| ⚙️ **Technology** | Open, composable infrastructure built for speed and scale |
-| 🌐 **Community** | Internet-native communities that grow organically and sustainably |
-| 📈 **Growth** | Data-driven strategies to accelerate ecosystem adoption |
+Pumpnetic is not a single project. It is an **ecosystem incubator** — a framework for conceiving, launching, and growing internet-native crypto projects that share a common foundation of values, infrastructure, and community.
+
+Each project within the Pumpnetic ecosystem is:
+
+- **Narrative-first** — built around a story or concept that is immediately legible to internet-native audiences
+- **Community-driven** — governed and grown by the people who believe in it
+- **Technically grounded** — launched with proper infrastructure, clear tokenomics, and public documentation
+- **Ecosystem-connected** — part of a broader network of projects that reinforce each other
 
 ---
 
-## 📂 Repository Structure
-
-This is the **public-facing** repository for Pumpnetic. It contains:
+## Ecosystem Model
 
 ```
-pumpnetic-public/
-├── assets/               # Brand assets, logos, banners
-├── docs/                 # Public documentation & whitepapers
-├── contracts/            # Audited smart contract ABIs & addresses
-├── community/            # Community guidelines & contribution info
-└── README.md             # You are here
+                        PUMPNETIC ECOSYSTEM
+                               │
+          ┌────────────────────┼────────────────────┐
+          │                    │                    │
+     Project 1            Project 2            Project N
+      $IKWYD               $NSGC                  TBA
+          │                    │                    │
+     Community            Community            Community
+          │                    │                    │
+          └────────────────────┴────────────────────┘
+                               │
+                        Shared Foundation
+               (Brand · Infrastructure · Values)
 ```
 
----
-
-## 🌐 Ecosystem Projects
-
-| Project | Token | Status | Description | Link |
-|---|---|---|---|---|
-| I Know What You Did | `$IKWYD` | 🟢 Live | The meme token that knows your on-chain history. Confessions, liquidations, and degenerate plays — preserved on the blockchain for eternity. | [ikwyd.pumpnetic.com](https://ikwyd.pumpnetic.com) |
-| No Sugar Coin | `$NSGC` | 🟢 Live | The cleanest token on chain. No fillers, no artificial pumps, no empty calories. Pure, unrefined community-driven tokenomics. | [nsgc.pumpnetic.com](https://nsgc.pumpnetic.com) |
-| Project 3 | TBA | 🔜 Planned | Third ecosystem project. Community-incubated. | — |
-| Project 4 | TBA | 🔜 Planned | Fourth ecosystem project. Narrative TBD. | — |
+Projects share the Pumpnetic brand trust, infrastructure layer, and community principles — while each maintaining its own identity, token, and community.
 
 ---
 
-## 🗺 Roadmap
+## Current Projects
 
-```
-Phase 01 — FOUNDATION          [✅ Complete]
-  Pumpnetic brand created. Domain registered.
-  Subdomain architecture designed.
-  First two projects conceived and scoped.
+### I Know What You Did — `$IKWYD`
+> *The meme token that knows your on-chain history.*
 
-Phase 02 — FIRST LAUNCHES      [🟡 Active]
-  $IKWYD + $NSGC landing pages live on subdomains.
-  Community channels launched.
-  Social presence established on X.
+Confessions, liquidations, and degenerate plays — preserved on the blockchain for eternity. $IKWYD turns the transparency of on-chain data into culture, community, and a token with a story worth telling.
 
-Phase 03 — PORTAL + DOCS       [🔄 In Progress]
-  pumpnetic.com ecosystem portal.
-  docs.pumpnetic.com — whitepapers + technical docs.
-
-Phase 04 — COMMUNITY + STAKING [⏳ Soon]
-  Governance voting.
-  Staking portal.
-  NFT drops for holders.
-  Community analytics dashboard.
-
-Phase 05 — EXPANSION           [📋 Planned]
-  Third + fourth project launches.
-  Token incubator opens to community concepts.
-```
+🔗 [ikwyd.pumpnetic.com](https://ikwyd.pumpnetic.com) · [Full Documentation](./projects/ikwyd.md)
 
 ---
 
-## 🚀 Projects & Releases
+### No Sugar Coin — `$NSGC`
+> *The cleanest token on chain.*
 
-Public project announcements, contract deployments, and release notes will be published here as they go live.
+No fillers, no artificial pumps, no empty calories. $NSGC is built on pure, unrefined community-driven tokenomics — a token that earns its value through transparency and honest fundamentals.
 
-Watch this repo 👁 to stay notified.
+🔗 [nsgc.pumpnetic.com](https://nsgc.pumpnetic.com) · [Full Documentation](./projects/nsgc.md)
 
 ---
 
-## 🔗 Links
+## Roadmap Summary
+
+| Phase | Focus | Status |
+|---|---|---|
+| 01 — Foundation | Brand, domains, project scoping | ✅ Complete |
+| 02 — First Launches | $IKWYD + $NSGC live, community established | 🟡 Active |
+| 03 — Portal + Docs | pumpnetic.com portal, docs.pumpnetic.com | 🔄 In Progress |
+| 04 — Community + Staking | Governance, staking, NFT drops, analytics | ⏳ Soon |
+| 05 — Expansion | Projects 3 & 4, community token incubator | 📋 Planned |
+
+---
+
+## Core Principles
+
+**Transparency** — We publish what we build. Contracts, documentation, and roadmaps are public by default.
+
+**Narrative integrity** — We don't manufacture hype. Every project is built around a story that stands on its own.
+
+**Community ownership** — The people who show up early and contribute meaningfully shape where the ecosystem goes.
+
+**Long-term thinking** — We build for cycles, not just moments.
+
+---
+
+## Links & Resources
 
 | | |
 |---|---|
 | 🌐 Website | [pumpnetic.com](https://pumpnetic.com) |
 | 𝕏 Twitter / X | [@pumpnetic](https://x.com/pumpnetic) |
-| 🐙 GitHub Org | [pumpneticprojects-collab](https://github.com/pumpneticprojects-collab) |
+| 🐙 GitHub | [pumpneticprojects-collab](https://github.com/pumpneticprojects-collab) |
+| 📄 Docs Index | [docs/README.md](./README.md) |
 
 ---
 
 <div align="center">
 
-```
-NARRATIVES  •  TECHNOLOGY  •  COMMUNITY  •  GROWTH
-```
-
-[🚨Disclaimer](https://github.com/pumpneticprojects-collab/pumpnetic-public/blob/main/docs/legal/disclaimer.md)
-
 *© Pumpnetic. Built on the Internet.*
 
 </div>
-
----
-
-All contributors must follow our [Code of Conduct](./community/CODE_OF_CONDUCT.md).
-
----
