@@ -18,8 +18,8 @@ Each project operates as an independent brand with its own identity, infrastruct
 
 | Project | Token | Status | Website | Documentation |
 |---|---:|:---:|---|---|
-| 🕵️‍♂️ I Know What You Did On Your Last Trade | `$IKWYD` | 🟢 Live | [ikwyd.pumpnetic.com](https://ikwyd.pumpnetic.com) | [ikwyd.md](./ikwyd.md) |
-| 🍬 No Sugar Coin | `$NSGC` | 🟢 Live | [nsgc.pumpnetic.com](https://nsgc.pumpnetic.com) | [nsgc.md]([.nsgc/nsgc.md)] |
+| 🕵️‍♂️ I Know What You Did On Your Last Trade | `$IKWYD` | 🟢 Live | [ikwyd.pumpnetic.com](https://ikwyd.pumpnetic.com) | [ikwyd.md](https://github.com/pumpneticprojects-collab/pumpnetic-public/blob/main/docs/projects/ikwyd/ikwyd.md) |
+| 🍬 No Sugar Coin | `$NSGC` | 🟢 Live | [nsgc.pumpnetic.com](https://nsgc.pumpnetic.com) | [nsgc.md](https://github.com/pumpneticprojects-collab/pumpnetic-public/blob/main/docs/projects/nsgc/nsgc.md) |
 
 ---
 
@@ -64,10 +64,5 @@ Additional ecosystem projects and documentation will be added over time as new n
 
 <div align="center">
 
-```
+```txt
 NARRATIVES  •  TECHNOLOGY  •  COMMUNITY  •  GROWTH
-```
-
-*© Pumpnetic — Built on the Internet.*
-
-</div>
