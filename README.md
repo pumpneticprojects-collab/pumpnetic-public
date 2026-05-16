@@ -62,8 +62,9 @@ pumpnetic-public/
 |---|---:|:---:|---|---|---|
 | 🕵️‍♂️ **I Know What You Did On Your Last Trade** | `$IKWYD` | 🟢 Live | A meme token built around crypto confessions, revenge trades, liquidations, bad entries, and the permanent memory of the blockchain. | [ikwyd.pumpnetic.com](https://ikwyd.pumpnetic.com) | [View Docs](https://github.com/pumpneticprojects-collab/pumpnetic-public/blob/main/docs/projects/ikwyd.md) |
 | 🍬 **No Sugar Coin** | `$NSGC` | 🟢 Live | A discipline-first culture token focused on delayed gratification, self-control, productivity, fitness, and long-term thinking. | [nsgc.pumpnetic.com](https://nsgc.pumpnetic.com) | [View Docs](https://github.com/pumpneticprojects-collab/pumpnetic-public/blob/main/docs/projects/nsgc.md) |
-| 🧪 **Project 03** | `TBA` | 🔜 Planned | Community-incubated experimental narrative currently under development. | — | — |
-| 🚀 **Project 04** | `TBA` | 🔜 Planned | Future ecosystem expansion project. Narrative and infrastructure to be announced. | — | — |
+| 🍺 **No Alc** | `$NOALC` | 🟢 Live | A culture token for the sober-curious generation — clarity over chaos, presence over poison, and living life at full signal. | [noalc.pumpnetic.com](https://noalc.pumpnetic.com) | [View Docs](https://github.com/pumpneticprojects-collab/pumpnetic-public/blob/main/docs/projects/noalc/noalc.md) |
+| 🧪 **Project 04** | `TBA` | 🔜 Planned | Community-incubated experimental narrative currently under development. | — | — |
+| 🚀 **Project 05** | `TBA` | 🔜 Planned | Future ecosystem expansion project. Narrative and infrastructure to be announced. | — | — |
 
 ---
 
@@ -90,12 +91,13 @@ Phase 01 — FOUNDATION          [✅ Complete]
   Subdomain architecture designed.
   First two projects conceived and scoped.
 
-Phase 02 — FIRST LAUNCHES      [🟡 Active]
+Phase 02 — FIRST LAUNCHES      [✅ Complete]
   $IKWYD + $NSGC landing pages live on subdomains.
   Community channels launched.
   Social presence established on X.
 
-Phase 03 — PORTAL + DOCS       [🔄 In Progress]
+Phase 03 — EXPANSION           [🟡 Active]
+  $NOALC launched. Third ecosystem project live.
   pumpnetic.com ecosystem portal.
   docs.pumpnetic.com — whitepapers + technical docs.
 
@@ -105,8 +107,8 @@ Phase 04 — COMMUNITY + STAKING [⏳ Soon]
   NFT drops for holders.
   Community analytics dashboard.
 
-Phase 05 — EXPANSION           [📋 Planned]
-  Third + fourth project launches.
+Phase 05 — FURTHER EXPANSION   [📋 Planned]
+  Fourth + fifth project launches.
   Token incubator opens to community concepts.
 ```
 
@@ -136,7 +138,7 @@ Watch this repo 👁 to stay notified.
 NARRATIVES  •  TECHNOLOGY  •  COMMUNITY  •  GROWTH
 ```
 
-[🚨Disclaimer](https://github.com/pumpneticprojects-collab/pumpnetic-public/blob/main/docs/legal/disclaimer.md)
+[🚨 Disclaimer](https://github.com/pumpneticprojects-collab/pumpnetic-public/blob/main/docs/legal/disclaimer.md)
 
 *© Pumpnetic. Built on the Internet.*
 
@@ -145,5 +147,3 @@ NARRATIVES  •  TECHNOLOGY  •  COMMUNITY  •  GROWTH
 ---
 
 All contributors must follow our [Code of Conduct](./community/CODE_OF_CONDUCT.md).
-
----
