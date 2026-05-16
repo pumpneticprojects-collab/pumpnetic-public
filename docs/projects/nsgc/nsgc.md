@@ -51,6 +51,7 @@ The project combines crypto culture with fitness, productivity, discipline, and 
 | Future Burns | 5% |
 | Type | Meme / Culture Token |
 | Ecosystem | Pumpnetic |
+| Official Email | `nsgc@pumpnetic.com` |
 | Tagline | The Discipline Token |
 
 # 📁 Repository Contents
