@@ -25,29 +25,33 @@ The project combines crypto culture with fitness, productivity, discipline, and 
 
 # 🌐 Official Links
 
-* Website: [https://nsgc.pumpnetic.com](https://nsgc.pumpnetic.com)
-* Pumpnetic Ecosystem: [https://pumpnetic.com](https://pumpnetic.com)
-* Telegram: [https://t.me/NoSugarCoin](https://t.me/NoSugarCoin)
-* X / Twitter: [https://x.com/NoSugarCoin](https://x.com/NoSugarCoin)
-* BSCScan: [https://bscscan.com/token/0x19B1b3C12642Cc08B73e6b03e52841004dc5E299](https://bscscan.com/token/0x19B1b3C12642Cc08B73e6b03e52841004dc5E299)
-* PancakeSwap:
-  [https://pancakeswap.finance/swap?outputCurrency=0x19B1b3C12642Cc08B73e6b03e52841004dc5E299](https://pancakeswap.finance/swap?outputCurrency=0x19B1b3C12642Cc08B73e6b03e52841004dc5E299)
+- Website: [nsgc.pumpnetic.com](https://nsgc.pumpnetic.com)
+- Pumpnetic Ecosystem: [pumpnetic.com](https://pumpnetic.com)
+- Telegram: [t.me/NoSugarCoin](https://t.me/NoSugarCoin)
+- X / Twitter: [x.com/NoSugarCoin](https://x.com/NoSugarCoin)
+- BSCScan: [View Contract](https://bscscan.com/token/0x19B1b3C12642Cc08B73e6b03e52841004dc5E299)
+- PancakeSwap: [Buy on PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x19B1b3C12642Cc08B73e6b03e52841004dc5E299)
 
 ---
 
 # 🪙 Token Information
 
-| Item      | Value                |
-| --------- | -------------------- |
-| Name      | No Sugar Coin        |
-| Symbol    | $NSGC                |
-| Chain     | BNB Smart Chain      |
-| Supply    | 100,000,000          |
-| Tax       | 0%                   |
-| Liquidity | Locked               |
-| Type      | Meme / Culture Token |
-
----
+| Item | Value |
+|---|---|
+| Name | No Sugar Coin |
+| Symbol | $NSGC |
+| Chain | BNB Smart Chain (BEP-20) |
+| Contract | `0x19B1b3C12642Cc08B73e6b03e52841004dc5E299` |
+| Total Supply | 100,000,000 $NSGC |
+| Tax | 0% Buy / 0% Sell |
+| Liquidity | 60% Locked |
+| Community Rewards | 20% |
+| Marketing | 10% |
+| Team | 5% |
+| Future Burns | 5% |
+| Type | Meme / Culture Token |
+| Ecosystem | Pumpnetic |
+| Tagline | The Discipline Token |
 
 # 📁 Repository Contents
 
