@@ -34,27 +34,33 @@ IKWYD transforms crypto trauma into meme culture and community engagement.
 
 # 🌐 Official Links
 
-* Website: [https://ikwyd.pumpnetic.com](https://ikwyd.pumpnetic.com)
-* Pumpnetic Ecosystem: [https://pumpnetic.com](https://pumpnetic.com)
-* Telegram: [https://t.me/IKWYDCoin](https://t.me/IKWYDCoin)
-* X / Twitter: [https://x.com/IKWYDCoin](https://x.com/IKWYDCoin)
-* BSCScan: [https://bscscan.com/token/0xA3ad36133013Db657107266c18cbe1aea0319821](https://bscscan.com/token/0xA3ad36133013Db657107266c18cbe1aea0319821)
-* PancakeSwap:
-  [https://pancakeswap.finance/swap?outputCurrency=0xA3ad36133013Db657107266c18cbe1aea0319821](https://pancakeswap.finance/swap?outputCurrency=0xA3ad36133013Db657107266c18cbe1aea0319821)
+- Website: [ikwyd.pumpnetic.com](https://ikwyd.pumpnetic.com)
+- Pumpnetic Ecosystem: [pumpnetic.com](https://pumpnetic.com)
+- Telegram: [t.me/IKWYDCoin](https://t.me/IKWYDCoin)
+- X / Twitter: [x.com/IKWYDCoin](https://x.com/IKWYDCoin)
+- BSCScan: [View Contract](https://bscscan.com/token/0xA3ad36133013Db657107266c18cbe1aea0319821)
+- PancakeSwap: [Buy on PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0xA3ad36133013Db657107266c18cbe1aea0319821)
 
 ---
 
 # 🪙 Token Information
 
 | Item | Value |
-|------|------|
+|---|---|
 | Name | I Know What You Did |
 | Symbol | $IKWYD |
-| Chain | BNB Smart Chain |
-| Supply | 1,000,000,000 |
-| Tax | 0% |
-| Liquidity | Locked |
+| Chain | BNB Smart Chain (BEP-20) |
+| Contract | `0xA3ad36133013Db657107266c18cbe1aea0319821` |
+| Total Supply | 1,000,000,000 $IKWYD |
+| Tax | 0% Buy / 0% Sell |
+| Liquidity | 60% Locked |
+| Community Rewards | 20% |
+| Marketing | 10% |
+| Team | 5% |
+| Future Burns | 5% |
 | Type | Meme / Culture Token |
+| Ecosystem | Pumpnetic |
+| Official Email | `ikwyd@pumpnetic.com` |
 
 ---
 
