@@ -23,14 +23,14 @@ The project combines crypto culture with sobriety, mindfulness, discipline, and 
 
 ---
 
-# 🌐 Official Links
+## 🌐 Official Links
 
-* Website: [https://noalc.pumpnetic.com](https://noalc.pumpnetic.com)
-* Pumpnetic Ecosystem: [https://pumpnetic.com](https://pumpnetic.com)
-* Telegram: [https://t.me/NOALCcoin](https://t.me/NOALCcoin)
-* X / Twitter: [https://x.com/NoalcCoin](https://x.com/NoalcCoin)
-* BSCScan: [https://bscscan.com/token/0xa223dC6241Ab785b3EA81318B098E06BD6527158](https://bscscan.com/token/0xa223dC6241Ab785b3EA81318B098E06BD6527158)
-* PancakeSwap: [https://pancakeswap.finance/swap?outputCurrency=0xa223dC6241Ab785b3EA81318B098E06BD6527158](https://pancakeswap.finance/swap?outputCurrency=0xa223dC6241Ab785b3EA81318B098E06BD6527158)
+- Website: [noalc.pumpnetic.com](https://noalc.pumpnetic.com)
+- Pumpnetic Ecosystem: [pumpnetic.com](https://pumpnetic.com)
+- Telegram: [t.me/NOALCcoin](https://t.me/NOALCcoin)
+- X / Twitter: [x.com/NoalcCoin](https://x.com/NoalcCoin)
+- BSCScan: [View Contract](https://bscscan.com/token/0xa223dC6241Ab785b3EA81318B098E06BD6527158)
+- PancakeSwap: [Buy on PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0xa223dC6241Ab785b3EA81318B098E06BD6527158)
 
 ---
 
