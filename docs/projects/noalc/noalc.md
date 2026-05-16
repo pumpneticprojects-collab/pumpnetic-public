@@ -36,17 +36,17 @@ The project combines crypto culture with sobriety, mindfulness, discipline, and 
 
 # 🪙 Token Information
 
-| Item      | Value                |
-| --------- | -------------------- |
-| Name      | No Alcohol Coin      |
-| Symbol    | $NOALC               |
-| Chain     | BNB Smart Chain      |
-| Supply    | 1,000,000,000        |
-| Tax       | 0%                   |
-| Liquidity | Locked               |
-| Type      | Meme / Culture Token |
-
----
+| Item | Value |
+|---|---|
+| Name | No Alcohol Coin |
+| Symbol | $NOALC |
+| Chain | BNB Smart Chain (BEP-20) |
+| Contract | `0xa223dC6241Ab785b3EA81318B098E06BD6527158` |
+| Total Supply | 1,000,000,000 $NOALC |
+| Tax | 0% Buy / 0% Sell |
+| Liquidity | Locked |
+| Type | Meme / Culture Token |
+| Ecosystem | Pumpnetic |
 
 # 📁 Repository Contents
 
