@@ -44,9 +44,14 @@ The project combines crypto culture with sobriety, mindfulness, discipline, and 
 | Contract | `0xa223dC6241Ab785b3EA81318B098E06BD6527158` |
 | Total Supply | 1,000,000,000 $NOALC |
 | Tax | 0% Buy / 0% Sell |
-| Liquidity | Locked |
+| Liquidity | 60% Locked |
+| Community Rewards | 20% |
+| Marketing | 10% |
+| Team | 5% |
+| Future Burns | 5% |
 | Type | Meme / Culture Token |
 | Ecosystem | Pumpnetic |
+| Official Email | `noalc@pumpnetic.com` |
 
 # 📁 Repository Contents
 
