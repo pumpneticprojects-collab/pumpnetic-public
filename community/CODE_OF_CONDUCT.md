@@ -51,7 +51,7 @@ This Code of Conduct applies across all Pumpnetic spaces, including:
 
 If you witness or experience behaviour that violates this Code of Conduct, please report it by contacting the Pumpnetic team at:
 
-📧 **pumpneticprojects@gmail.com**
+📧 **info@pumpnetic.com**
 𝕏 **[@pumpnetic](https://x.com/pumpnetic)** (DM for urgent matters)
 
 All reports will be treated confidentially. We will review every report and respond as promptly as possible.
