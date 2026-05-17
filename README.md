@@ -60,9 +60,9 @@ pumpnetic-public/
 
 | Project | Token | Status | Narrative | Website | Documentation |
 |---|---:|:---:|---|---|---|
-| 🕵️‍♂️ **I Know What You Did** | `$IKWYD` | 🟢 Live | A meme and culture token built around crypto confessions, revenge trades, liquidations, bad entries, and the permanent memory of the blockchain. | [ikwyd.pumpnetic.com](https://ikwyd.pumpnetic.com) | [View Docs](https://github.com/pumpneticprojects-collab/pumpnetic-public/blob/main/docs/projects/ikwyd/ikwyd.md) |
 | 🍬 **No Sugar Coin** | `$NSGC` | 🟢 Live | A discipline-first culture token focused on delayed gratification, self-control, productivity, fitness, and long-term thinking. | [nsgc.pumpnetic.com](https://nsgc.pumpnetic.com) | [View Docs](https://github.com/pumpneticprojects-collab/pumpnetic-public/blob/main/docs/projects/nsgc/nsgc.md) |
 | 🍺 **No Alc Coin** | `$NOALC` | 🟢 Live | A culture token for the sober-curious generation — clarity over chaos, presence over poison, and living life at full signal. | [noalc.pumpnetic.com](https://noalc.pumpnetic.com) | [View Docs](https://github.com/pumpneticprojects-collab/pumpnetic-public/blob/main/docs/projects/noalc/noalc.md) |
+| 🕵️‍♂️ **I Know What You Did** | `$IKWYD` | 🟢 Live | A meme and culture token built around crypto confessions, revenge trades, liquidations, bad entries, and the permanent memory of the blockchain. | [ikwyd.pumpnetic.com](https://ikwyd.pumpnetic.com) | [View Docs](https://github.com/pumpneticprojects-collab/pumpnetic-public/blob/main/docs/projects/ikwyd/ikwyd.md) |
 | 🧪 **Project 04** | `TBA` | 🔜 Planned | Community-incubated experimental narrative currently under development. | — | — |
 | 🚀 **Project 05** | `TBA` | 🔜 Planned | Future ecosystem expansion project. Narrative and infrastructure to be announced. | — | — |
 
