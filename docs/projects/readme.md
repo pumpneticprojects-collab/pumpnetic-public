@@ -1,63 +1,66 @@
-# 📂 Pumpnetic Project Documentation
-Welcome to the official Pumpnetic ecosystem project documentation repository.
-This directory contains the public-facing documentation, narratives, technical overviews, roadmap references, and ecosystem resources for all active and upcoming Pumpnetic projects.
+# Pumpnetic — Project Documentation
+
+Official documentation index for all active and planned projects in the Pumpnetic ecosystem.
 
 ---
 
-## 🌐 About Pumpnetic
-Pumpnetic is an internet-native crypto ecosystem focused on building narrative-driven, community-first blockchain projects.
-Each project operates as an independent brand with its own identity, infrastructure, roadmap, and community — while remaining connected to the broader Pumpnetic ecosystem architecture.
+## Active Projects
+
+| Project | Symbol | Contract | Chain | Website | Docs |
+|---|---|---|---|---|---|
+| **No Sugar Coin** | `$NSGC` | [`0x19B1...E299`](https://bscscan.com/token/0x19B1b3C12642Cc08B73e6b03e52841004dc5E299) | BSC BEP-20 | [nsgc.pumpnetic.com](https://nsgc.pumpnetic.com) | [nsgc.md](./nsgc/nsgc.md) |
+| **No Alcohol Coin** | `$NOALC` | [`0xa223...7158`](https://bscscan.com/token/0xa223dC6241Ab785b3EA81318B098E06BD6527158) | BSC BEP-20 | [noalc.pumpnetic.com](https://noalc.pumpnetic.com) | [noalc.md](./noalc/noalc.md) |
+| **I Know What You Did** | `$IKWYD` | [`0xA3ad...9821`](https://bscscan.com/token/0xA3ad36133013Db657107266c18cbe1aea0319821) | BSC BEP-20 | [ikwyd.pumpnetic.com](https://ikwyd.pumpnetic.com) | [ikwyd.md](./ikwyd/ikwyd.md) |
 
 ---
 
-## 📚 Available Project Documentation
+## Planned Projects
 
-| Project | Token | Status | Website | Documentation |
-|---|---:|:---:|---|---|
-| 🕵️‍♂️ I Know What You Did On Your Last Trade | `$IKWYD` | 🟢 Live | [ikwyd.pumpnetic.com](https://ikwyd.pumpnetic.com) | [ikwyd.md](https://github.com/pumpneticprojects-collab/pumpnetic-public/blob/main/docs/projects/ikwyd/ikwyd.md) |
-| 🍬 No Sugar Coin | `$NSGC` | 🟢 Live | [nsgc.pumpnetic.com](https://nsgc.pumpnetic.com) | [nsgc.md](https://github.com/pumpneticprojects-collab/pumpnetic-public/blob/main/docs/projects/nsgc/nsgc.md) |
-| 🍺 No Alc | `$NOALC` | 🟢 Live | [noalc.pumpnetic.com](https://noalc.pumpnetic.com) | [noalc.md](https://github.com/pumpneticprojects-collab/pumpnetic-public/blob/main/docs/projects/noalc/noalc.md) |
-
----
-
-## 🧠 Documentation Scope
-Project documentation may include:
-- Narrative & branding
-- Token overview
-- Ecosystem structure
-- Community philosophy
-- Technical architecture
-- Smart contract references
-- Roadmaps
-- Public resources & links
+| Project | Status |
+|---|---|
+| Project 04 | 🔜 In development |
+| Project 05 | 📋 Planned |
 
 ---
 
-## 🔓 Open Ecosystem Philosophy
-Pumpnetic believes in transparent, internet-native project development.
-Where possible, documentation, public assets, smart contract references, and ecosystem resources are published openly for the community.
+## Documentation Structure
+
+Each project doc contains:
+
+- Project overview and narrative
+- Full token information table (contract, supply, tax, decimals)
+- Token allocation breakdown
+- Contract security checklist (verifiable on BscScan)
+- Official links (website, BSCScan, PancakeSwap, X, Telegram, email)
+- Whitepaper reference
+- Ecosystem cross-links
+- Legal disclaimer
 
 ---
 
-## 🚀 Future Expansion
-Additional ecosystem projects and documentation will be added over time as new narratives, experiments, and community-driven concepts are launched.
+## Ecosystem Philosophy
+
+Each Pumpnetic project is developed as an independent internet-native brand. Independent communities, independent subdomains, independent social accounts — unified by the Pumpnetic infrastructure and documentation standard.
+
+> Open by default. Verifiable on-chain. Community-first.
 
 ---
 
-## 🔗 Ecosystem Links
+## Ecosystem Links
 
 | | |
 |---|---|
 | 🌐 Main Portal | [pumpnetic.com](https://pumpnetic.com) |
+| 📚 Docs Portal | [docs.pumpnetic.com](https://docs.pumpnetic.com) |
 | 𝕏 Twitter / X | [@pumpnetic](https://x.com/pumpnetic) |
-| 🐙 GitHub Organization | [pumpneticprojects-collab](https://github.com/pumpneticprojects-collab) |
+| 📬 Telegram | [t.me/pumpnetic](https://t.me/pumpnetic) |
+| 🐙 GitHub | [pumpneticprojects-collab](https://github.com/pumpneticprojects-collab) |
+| 📧 Email | [info@pumpnetic.com](mailto:info@pumpnetic.com) |
 
 ---
 
 <div align="center">
 
-```txt
-NARRATIVES  •  TECHNOLOGY  •  COMMUNITY  •  GROWTH
-```
+*© 2026 Pumpnetic. Built on the Internet.*
 
 </div>

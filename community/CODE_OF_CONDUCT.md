@@ -85,7 +85,7 @@ By participating in the Pumpnetic ecosystem — whether as a contributor, commun
 
 <div align="center">
 
-*© Pumpnetic. Built on the Internet.*
+*© Pumpnetic. Built on the Internet. © 2026 Pumpnetic.*
 
 [pumpnetic.com](https://pumpnetic.com) · [@pumpnetic](https://x.com/pumpnetic)
 

@@ -1,4 +1,4 @@
-# ⚖️ Legal Disclaimer
+# Legal & Compliance
 
 This directory contains the official legal notices, disclaimers, and compliance-related documentation for the Pumpnetic ecosystem.
 
@@ -8,18 +8,18 @@ Users are strongly encouraged to conduct their own research, understand the risk
 
 ---
 
-## 📄 Available Documents
+## Documents
 
 | Document | Description |
 |---|---|
-| [disclaimer.md](./disclaimer.md) | Official Pumpnetic legal disclaimer and risk disclosure |
+| [disclaimer.md](./disclaimer.md) | Full legal disclaimer, risk disclosure, on-chain transparency statement, and jurisdictional notice |
 
 ---
 
 <div align="center">
 
-*© Pumpnetic — Built on the Internet.*
+*© 2026 Pumpnetic. Built on the Internet.*
 
-[🌐 pumpnetic.com](https://pumpnetic.com) • [𝕏 @pumpnetic](https://x.com/pumpnetic)
+[pumpnetic.com](https://pumpnetic.com) · [@pumpnetic](https://x.com/pumpnetic)
 
 </div>
