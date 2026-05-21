@@ -9,7 +9,7 @@
 ### Internet-Native Crypto Ecosystem
 
 [![Website](https://img.shields.io/badge/Website-pumpnetic.com-39FF14?style=for-the-badge&logo=googlechrome&logoColor=black)](https://pumpnetic.com)
-[![X (Twitter)](https://img.shields.io/badge/Follow-%2540pumpnetic-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pumpnetic)
+[![X (Twitter)](https://img.shields.io/badge/Follow-%40pumpnetic-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pumpnetic)
 [![Telegram](https://img.shields.io/badge/Telegram-pumpnetic-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pumpnetic)
 [![GitHub Org](https://img.shields.io/badge/GitHub-pumpneticprojects--collab-181717?style=for-the-badge&logo=github)](https://github.com/pumpneticprojects-collab)
 [![BSC](https://img.shields.io/badge/Chain-BNB_Smart_Chain-F0B90B?style=for-the-badge&logo=binance&logoColor=black)](https://bscscan.com)
@@ -96,13 +96,13 @@ pumpnetic-public/
 
 ## Ecosystem Projects
 
-|Project|Token|Chain|Contract|Status|Docs|
-|-|-|-|-|:-:|-|
-|**No Sugar Coin**|`$NSGC`|BSC BEP-20|[`0x19B1...E299`](https://bscscan.com/token/0x19B1b3C12642Cc08B73e6b03e52841004dc5E299)|🟢 Live|[nsgc.md](./docs/projects/nsgc/nsgc.md)|
-|**No Alcohol Coin**|`$NOALC`|BSC BEP-20|[`0xa223...7158`](https://bscscan.com/token/0xa223dC6241Ab785b3EA81318B098E06BD6527158)|🟢 Live|[noalc.md](./docs/projects/noalc/noalc.md)|
-|**I Know What You Did**|`$IKWYD`|BSC BEP-20|[`0xA3ad...9821`](https://bscscan.com/token/0xA3ad36133013Db657107266c18cbe1aea0319821)|🟢 Live|[ikwyd.md](./docs/projects/ikwyd/ikwyd.md)|
-|**Project 04**|`TBA`|BSC BEP-20|—|🔜 Planned|—|
-|**Project 05**|`TBA`|BSC BEP-20|—|🔜 Planned|—|
+| Project | Token | Chain | Contract | Status | Docs |
+|---|---|---|---|:---:|---|
+| **No Sugar Coin** | `$NSGC` | BSC BEP-20 | [`0x19B1...E299`](https://bscscan.com/token/0x19B1b3C12642Cc08B73e6b03e52841004dc5E299) | 🟢 Live | [nsgc.md](./docs/projects/nsgc/nsgc.md) |
+| **No Alcohol Coin** | `$NOALC` | BSC BEP-20 | [`0xa223...7158`](https://bscscan.com/token/0xa223dC6241Ab785b3EA81318B098E06BD6527158) | 🟢 Live | [noalc.md](./docs/projects/noalc/noalc.md) |
+| **I Know What You Did** | `$IKWYD` | BSC BEP-20 | [`0xA3ad...9821`](https://bscscan.com/token/0xA3ad36133013Db657107266c18cbe1aea0319821) | 🟢 Live | [ikwyd.md](./docs/projects/ikwyd/ikwyd.md) |
+| **Project 04** | `TBA` | BSC BEP-20 | — | 🔜 Planned | — |
+| **Project 05** | `TBA` | BSC BEP-20 | — | 🔜 Planned | — |
 
 > All contract addresses are publicly verifiable on [BscScan](https://bscscan.com). Token information, supply data, and transaction history are on-chain and immutable.
 
@@ -124,19 +124,15 @@ Verification:     All contracts verified on BscScan — source code public
 ## Ecosystem Philosophy
 
 ### Open by Default
-
 Every contract address, wallet allocation, and liquidity position is public and verifiable on-chain. There is no closed information in this ecosystem.
 
 ### No Hidden Mechanics
-
 All deployed tokens use 0% buy/sell tax. No blacklists. No hidden mint functions. No transfer-blocking logic. Verify this yourself on BscScan — the source code is public.
 
 ### Community-First Supply
-
 Each project allocates the majority of supply toward liquidity and community. Team allocations are disclosed in project documentation.
 
 ### Composable Infrastructure
-
 Projects are built to be composable. Subdomain infrastructure, documentation standards, and asset systems are designed to scale.
 
 ---
@@ -177,14 +173,14 @@ Phase 05 — FURTHER EXPANSION                              📋 Planned
 
 ## Official Links
 
-|||
-|-|-|
-|🌐 Website|[pumpnetic.com](https://pumpnetic.com)|
-|📚 Docs Portal|[docs.pumpnetic.com](https://docs.pumpnetic.com)|
-|𝕏 Twitter / X|[@pumpnetic](https://x.com/pumpnetic)|
-|📬 Telegram|[t.me/pumpnetic](https://t.me/pumpnetic)|
-|🐙 GitHub Org|[pumpneticprojects-collab](https://github.com/pumpneticprojects-collab)|
-|📧 Email|[info@pumpnetic.com](mailto:info@pumpnetic.com)|
+| | |
+|---|---|
+| 🌐 Website | [pumpnetic.com](https://pumpnetic.com) |
+| 📚 Docs Portal | [docs.pumpnetic.com](https://docs.pumpnetic.com) |
+| 𝕏 Twitter / X | [@pumpnetic](https://x.com/pumpnetic) |
+| 📬 Telegram | [t.me/pumpnetic](https://t.me/pumpnetic) |
+| 🐙 GitHub Org | [pumpneticprojects-collab](https://github.com/pumpneticprojects-collab) |
+| 📧 Email | [info@pumpnetic.com](mailto:info@pumpnetic.com) |
 
 ---
 
@@ -204,9 +200,6 @@ NARRATIVES  •  TECHNOLOGY  •  COMMUNITY  •  GROWTH
 
 [⚖️ Legal Disclaimer](./docs/legal/disclaimer.md) · [🤝 Code of Conduct](./community/CODE_OF_CONDUCT.md) · [📧 info@pumpnetic.com](mailto:info@pumpnetic.com)
 
-*© 2026 Pumpnetic. Built on the Internet!*
-
-🚀
+*© 2026 Pumpnetic. Built on the Internet.*
 
 </div>
-
