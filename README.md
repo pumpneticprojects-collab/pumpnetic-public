@@ -187,3 +187,4 @@ Internet-native ecosystems.
 *© 2026 Pumpnetic — Built for the long term.*
 
 </div>
+
